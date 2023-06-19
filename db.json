@@ -1,0 +1,32 @@
+{
+  "dashboard": [
+    {
+      "id": 1,
+      "name": "Vikas ",
+      "email": "vikas@gmail.com",
+      "phone": "999999999",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "ram",
+      "email": "ram@gmaill.com",
+      "phone": "7777777777",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Sri Laxmi",
+      "email": "sri@gmail.com",
+      "phone": "5555555555",
+      "active": "true"
+    },
+    {
+      "id": 6,
+      "name": "Uma ",
+      "email": "Uma@gmail.com",
+      "phone": "1111111111",
+      "active": true
+    }
+  ]
+}
